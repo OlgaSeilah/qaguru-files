@@ -1,4 +1,4 @@
-package qaguru.seilah;
+package qaguru.seilah.tests;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.xlstest.XLS;

@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "BRVMC2Q7AGNP0ZRL",
+      "name": "Vesta Marr",
+      "dob": "2022-06-07",
+      "address": {
+        "street": "4272 Windrush Avenue",
+        "town": "Coventry",
+        "postode": "M49 5BC"
+      },
+      "telephone": "+216-5450-127-082",
+      "pets": [
+        "Gracie",
+        "Stella"
+      ],
+      "email": "laci.hofmann9266@gmail.com"
+    },
+    {
+      "id": "5R3MYXUEDI8LQVEZ",
+      "name": "Bobette Wright",
+      "dob": "2022-07-17",
+      "address": {
+        "street": "2185 Sidbrook Circle",
+        "town": "Lyme Regis",
+        "postode": "ZE8 9MK"
+      },
+      "telephone": "+886-5048-707-317",
+      "pets": [
+        "Scooter",
+        "Rosie"
+      ],
+      "email": "geraldfuller0341@gmail.com"
+    }
+  ]
+}
