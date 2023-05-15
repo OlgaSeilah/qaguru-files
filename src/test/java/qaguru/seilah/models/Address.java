@@ -6,5 +6,5 @@ import lombok.Getter;
 public class Address {
     private String street;
     private String town;
-    private String postode;
+    private String postcode;
 }
